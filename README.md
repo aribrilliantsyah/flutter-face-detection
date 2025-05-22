@@ -1,7 +1,5 @@
 # Face Detection App
 
-![App Screenshot](./screenshot.png)
-
 Aplikasi Flutter untuk mendeteksi wajah manusia menggunakan TensorFlow Lite dengan model yang dilatih menggunakan Teachable Machine.
 
 ## 📱 Tentang Aplikasi

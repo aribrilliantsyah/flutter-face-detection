@@ -1,0 +1,2 @@
+0 Wajah
+1 Bukan Wajah
